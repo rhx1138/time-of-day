@@ -15,4 +15,4 @@ setInterval(function(){
       },1000);
     
 
-     // ./images/morning1.jpg
+  
