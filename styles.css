@@ -3,3 +3,8 @@
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     }
+
+    body {
+        background-image: url(morning.jpg);
+        background-size: cover;
+      }
