@@ -5,14 +5,13 @@ A time of day app
 
 [Time of day App Website](https://time-of-day-app.netlify.app/)
 
-# Screenshots
 
-![screenshot one](/images/time-bg.png "Home page") 
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 - [Support](#support)
 - [Contributing](#contributing)
 
@@ -28,6 +27,10 @@ $ open index.html
 ## Usage
 
 To use the app, simply watch as the day goes from morning to night; you'll see the images change according to the time of day.
+
+## Screenshot
+
+![screenshot one](/images/time-bg.png "Home page") 
 
 ## Support
 
