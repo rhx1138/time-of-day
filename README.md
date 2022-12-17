@@ -5,6 +5,10 @@ A time of day app
 
 [Time of day App Website](https://time-of-day-app.netlify.app/)
 
+# Screenshots
+
+![screenshot one](/images/time-bg.png "Home page") 
+
 ## Table of Contents
 
 - [Installation](#installation)
